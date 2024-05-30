@@ -26,7 +26,7 @@ function Projects() {
               title="Apple-clone"
               description=""
               // ghLink="https://github.com/soumyajit4419/Chatify"
-              // demoLink="https://chatify-49.web.app/"
+              demoLink="https://chatify-49.web.app/"
             />
           </Col>
 
