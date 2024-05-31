@@ -59,7 +59,7 @@ function Projects() {
               title="netflix-clone"
               description=""
               ghLink="https://github.com/Delawit12/Netflix-front-Clone"
-              demoLink="neflix-page-clone.netlify.app"
+              demoLink="https://neflix-page-clone.netlify.app"
             />
           </Col>
         </Row>
